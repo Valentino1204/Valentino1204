@@ -1,8 +1,6 @@
 # Hi My name is Valentino <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b76119p163q2dzqb6v86zndtwgg160l18pt61wqp2l03j&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="center">
 
 
-
-
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFqNXlnZ3JmMDg5ZWVuZnVrN2U1d2ppYXR6cWdxaDBkZHgzbTR4MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8f3nS1Gajtv70qNicE/giphy.gif" width="60" align="center"> Mobile Developer 
 * 🌍  I'm based in Rosario, Santa Fe, Argentina. 
 * ✉️  You can contact me at [valentinobulgarelli67@gmail.com](mailto:valentinobulgarelli67@gmail.com) 
@@ -11,11 +9,17 @@
 ## Skills  
 
 <p align="left"> 
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> </p> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+</p> 
+
+## Languages
+* 🇪🇸 Mother Language
+* 🇮🇹 B1
+* 🇬🇧 Elemental
 
 ## Socials  
 <p align="left"> 
